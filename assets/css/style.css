@@ -1,0 +1,18 @@
+#myElement {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  border-radius: 300px;
+  transition: all 0.5s;
+}
+#myButton {
+  width: 200px;
+  height: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: teal;
+  font-family: "Times New Roman", Times, serif;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
